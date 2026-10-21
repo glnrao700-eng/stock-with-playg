@@ -1,0 +1,6 @@
+{
+  "name": "Indian Market Multi-Agent Intelligence Platform (IMMIP)",
+  "description": "Multi-agent AI application for Indian equity (NSE) intraday analysis, deterministic target validation, virtual paper trading, and next-session opening forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
